@@ -1,2 +1,3 @@
 # Challenge_3
-Build a Python program to find arbitrage opportunities between two exchange markets for Bitcoin.  
+
+Click into the ./Challenge_3/ folder for the main program and README.md files.

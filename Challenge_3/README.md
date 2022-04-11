@@ -16,7 +16,6 @@ This aspect of the Challenge will consist of 3 phases.
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 This project was completed almost entirely in Jupyter Notebook.  The README.md was modified in VS Code.  
 
@@ -37,7 +36,6 @@ This program was written and will run on Windows 10.
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 From the Command Line in Git Bash, navigate your directory to the location of the file package.  Then, type "Jupyter Notebook" to launch the application used to write and run this program.  It's outside of the scope of this README.md file to explain the installation of Jupyter Notebook.  A screenshot of the Command Line in Git Bash is shown here:  ![Git Bash](./images/VSCode_Git_Bash.png)
 
@@ -47,7 +45,6 @@ From Jupyter Notebook, navigate to the directory where the program is found and 
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 As it was explained in the preamble, the goal of this kind of analysis is to:
 1. Collect the Data - The data is found in two separate .csv files in the /resources/ folder.  The two files: bitstamp.csv and coinbase.csv contained over 120,000 individual data points over approximately 3 months in 2018 for Bitcoin.  The data included: 
